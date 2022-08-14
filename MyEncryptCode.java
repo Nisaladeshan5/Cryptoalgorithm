@@ -19,7 +19,6 @@ public class MyEncryptCode{
         Scanner input = new Scanner(System.in);
 
         //encode or decode
-        
         System.out.println("Press 0 to encode your message or Press 1 to decode your decrypted text");
         int EncodeDecode = input.nextInt();
 
